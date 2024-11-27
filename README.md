@@ -10,7 +10,7 @@
 
 *  [Массив](src/data-structures/array)
 *  [Связный список](src/data-structures/linked-list)
-*  [Двунаправленный связный список](src/data-structures/doubly-linked-list)
+*  [Двусвязный список](src/data-structures/doubly-linked-list)
 *  [Очередь](src/data-structures/queue)
 *  [Стек](src/data-structures/stack)
 *  [Хеш-таблица](src/data-structures/hash-table)
