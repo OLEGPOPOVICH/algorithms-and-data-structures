@@ -22,8 +22,7 @@
 
 - [Бинарное дерево (Binary Tree)](binaryTree/README.md);
 - [Бинарное дерево поиска (Binary Search Tree)](binarySearchTree/README.md);
-- [Сбалансированное дерево (AVL Tree)](/README.md);
-- [Сбалансированное дерево (Red-Black Tree)](/README.md);
+- [Красно-черное дерево (Red-Black Tree)](redBlackTree/README.md);
 
 ## Подтипы
 
