@@ -29,7 +29,7 @@
 
 * **Алгоритмы поиска**
   *  [Линейный поиск](src/algorithms/search/linear-search)
-  *  [Двоичный поиск](src/algorithms/search/binary-search) — поиск в упорядоченном массиве
+  *  [Бинарный поиск](src/algorithms/search/binary-search)
 
 
 * **Алгоритмы сортировки**
