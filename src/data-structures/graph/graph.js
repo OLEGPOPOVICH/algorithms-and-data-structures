@@ -175,6 +175,8 @@ class Graph {
   }
 }
 
+module.exports = Graph;
+
 const graph = new Graph();
 
 graph.addVertex('A', 'Москва');

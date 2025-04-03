@@ -41,5 +41,5 @@
 ## Ресурсы
 
 - [Online Univer](https://www.youtube.com/watch?v=4s-aG6yGGLU)
-- [Alek OS (12:15)] (https://www.youtube.com/watch?v=PF7AqefS4MU)
+- [Alek OS (12:15)](https://www.youtube.com/watch?v=PF7AqefS4MU)
 - [Визуализация](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
